@@ -17,7 +17,7 @@ Technology	Purpose
 HTML	      Page Structure
 CSS	        Styling & Layout
 
-![Preview](images/output.png)
+![Project Preview](project/output-for-github.png)
 
 ▶️ Running The Project
 Download or clone the repository from GitHub
